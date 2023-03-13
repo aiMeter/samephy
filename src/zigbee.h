@@ -1,7 +1,7 @@
 #ifndef ZIGBEE_H
 #define ZIGBEE_H
 
-#include"pins_definition.h"
+#include "pins.h"
 
 
 #endif	//ZIGBEE_H

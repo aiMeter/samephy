@@ -1,7 +1,7 @@
 #ifndef GSM_H
 #define GSM_H
 
-#include"pins_definition.h"
+#include "pins.h"
 
 #endif //GSM_H
 

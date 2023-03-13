@@ -1,7 +1,7 @@
 #ifndef WIFI_H
 #define WIFI_H
 
-#include"pins_definition.h"
+#include "pins.h"
 
 
 #endif //WIFI_H

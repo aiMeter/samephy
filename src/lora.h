@@ -1,6 +1,6 @@
 #ifndef LORA_H
 #define LORA_H
 
-#include"pins_definition.h"
+#include "pins.h"
 
 #endif	//LORA_H
